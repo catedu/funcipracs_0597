@@ -84,7 +84,7 @@ Cuando se elabore por primera vez el Proyecto Educativo de Centro (PEC), por tra
 
 Cuando se considere necesario introducir modificaciones en el Proyecto Educativo de Centro (PEC), las propuestas de modificación podrán hacerse por el Equipo Directivo, por el Claustro, por cualquiera de los otros sectores representados en el Consejo Escolar o por un tercio de los miembros del Consejo Escolar, garantizando el plazo de un mes de información pública para que pueda ser conocido por el resto de sectores. La propuesta de modificación deberá ser aprobada por el Director del centro en el tercer trimestre del curso y entrará en vigor al comienzo del curso siguiente.
 
-![](images/image3.png)
+![](/images/image3.png)
 
 Figura 7: Carda, R. R. M., &amp; Larrosa, M. F. (2012).
 
@@ -97,7 +97,7 @@ Figura 7: Carda, R. R. M., &amp; Larrosa, M. F. (2012).
 | Un documento en el que participan los | Un documento elaborado por el equipo directivo. |
 | Un documento vivo que establece la identidad de un centro. | Un precioso documento de despacho para  ser |
 
-Para saber más:
+### Para saber más:
 
 Es necesario leerse con detenimiento el documento que ha elaborado Coral Elizondo sobre la elaboración de un Proyecto Educativo desde un enfoque inclusivo.
 

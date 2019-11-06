@@ -69,7 +69,7 @@ La programación de aula es la adaptación de la programación didáctica a las 
 
 La secuencia ordenada de las unidades de programación que se vayan a trabajar durante el curso constituirá la base específica de la programación de aula.
 
-![](images/image9.png)
+![](/images/image9.png)
 
 Figura 9: Elaboración propia.
 

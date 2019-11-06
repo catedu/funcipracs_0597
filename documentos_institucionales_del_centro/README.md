@@ -30,6 +30,6 @@ A partir de esta declaración de intenciones se procede a delimitar cuáles debe
 *   Memoria administrativa
 *   Documento de Organización del Centro (DOC)
 
-        ![](images/image6.png)
+![Figura 6: Elaboración propia.](/images/image6.png)
 
 Figura 6: Elaboración propia.
