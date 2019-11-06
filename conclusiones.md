@@ -1,0 +1,5 @@
+# CONCLUSIONES {#conclusiones}
+
+Es clave en el proceso educativo saber gestionar el funcionamiento de una organización escolar que facilite la comunicación, la convivencia, la participación democrática, así como un clima y una cultura de compromiso con un proyecto conjunto con la comunidad educativa que permita avanzar hacia la construcción de auténticas comunidades de aprendizaje democráticas y participativas.
+
+Considero que es necesario reflexionar sobre las oportunidades que nos proporcionan los documentos institucionales para desarrollar la autonomía de centro. Entre estos documentos, la programación didáctica se sitúa en el escalón más cercano a la acción educativa, al trabajo de aula. Programar no solo es una función docente sino una necesidad para planificar el trabajo con los alumnos. Dentro de la programación hay dos aspectos fundamentales, la metodología y la evaluación que nos ayudan a desarrollar nuestro objetivo fundamental de toda enseñanza, que es hacer progresar al alumnado a lo largo de una senda cada vez más compleja de conocimientos, destrezas y actitudes.
