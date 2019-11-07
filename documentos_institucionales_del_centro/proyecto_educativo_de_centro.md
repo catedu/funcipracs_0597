@@ -91,11 +91,11 @@ Figura 7: Carda, R. R. M., &amp; Larrosa, M. F. (2012).
 | PROYECTO EDUCATIVO DE CENTRO |
 | --- |
 | ES | NO ES |
-| Una escueta y clara especificación de los fines que se persiguen, estableciendo el “carácter propio” o definición y características fundamentales que |  |
-| Un conjunto de inquietudes y aspiraciones | Un        conjunto        utópico        de        “ilusiones” profesionales. |
-| Un documento singular, propio y específico para cada centro, aunque puede existir varios centros que posean proyectos semejantes. | Un documento genérico basado en los principios esenciales de la pedagogía, psicología…,   para   poder ser aplicado a cualquier centro de características semejantes. |
-| Un documento en el que participan los | Un documento elaborado por el equipo directivo. |
-| Un documento vivo que establece la identidad de un centro. | Un precioso documento de despacho para  ser |
+| Una escueta y clara especificación de los fines que se persiguen, estableciendo el “carácter propio” o definición y características fundamentales que diferenciarán paulatinamente y darán personalidad al centro.|  **Un documento en el que se especifican todos y cada uno de los detalles del centro**.|
+| Un conjunto de inquietudes y aspiraciones basadas en la realidad y factibles a medio y largo plazo. | **Un        conjunto        utópico        de        “ilusiones” profesionales.** |
+| Un documento singular, propio y específico para cada centro, aunque puede existir varios centros que posean proyectos semejantes. | **Un documento genérico basado en los principios esenciales de la pedagogía, psicología…,   para   poder ser aplicado a cualquier centro de características semejantes.** |
+| **Un documento en el que participan los sectores de la comunidad  educativa.** | Un documento elaborado por el equipo directivo. |
+| Un documento vivo que establece la identidad de un centro. | **Un precioso documento de despacho para  ser archivado, acabado, inamovible e innecesario. |**
 
 ### Para saber más:
 
