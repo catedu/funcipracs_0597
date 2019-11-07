@@ -1,16 +1,16 @@
 ## PROYECTO EDUCATIVO DE CENTRO {#proyecto-educativo-de-centro}
 
-El Proyecto Educativo es un documento de presentación y planificación del centro, ya que concreta las intenciones de la comunidad educativa, dotando al centro de una identidad diferenciada, al plantear aquellos valores y principios que asume dicha comunidad (Bernal y Cano, 2014). Así Incluye:
+**El Proyecto Educativo es un documento de presentación y planificación del centro, ya que concreta las intenciones de la comunidad educativa, dotando al centro de una identidad diferenciada, al plantear aquellos valores y principios que asume dicha comunidad** (Bernal y Cano, 2014). Así Incluye:
 
 *   Valores
 *   Objetivos
 *   Prioridades de actuación
 
-A su vez, el Proyecto Educativo de Centro (PEC) es el documento que articula, da coherencia y orienta las grandes decisiones y proyectos del centro. Tiene una clara intencionalidad educativa, ya que expresa la opción de la comunidad respecto a la persona que quiere educar, la organización y los medios de los que se dota para conseguirlo.
+A su vez, el Proyecto Educativo de Centro (PEC) es el documento que **articula, da coherencia y orienta las grandes decisiones y proyectos del centro**. Tiene una clara intencionalidad educativa, ya que expresa la opción de la comunidad respecto a la persona que quiere educar, la organización y los medios de los que se dota para conseguirlo.
 
 La LOE/LOMCE apuesta por un Proyecto Educativo de Centro de carácter pedagógico elaborado por la Comunidad Educativa que enumera y define los rasgos de identidad de un centro, formula los objetivos que se han de conseguir y expresa la estructura organizativa y funcional del centro educativo
 
-Responde a preguntas como:
+**Responde a preguntas como:**
 
 *   ¿Dónde estamos? 🡪 Análisis del contexto del centro que influye en las decisiones que vamos a tomar.
 *   ¿Quiénes somos? 🡪 Señas de identidad, características y valores que nos definen.
@@ -19,42 +19,42 @@ Responde a preguntas como:
 
 Las características que lo definen son:
 
-*   De centro, consensuado
-*   Elaborado en equipo con participación de toda la comunidad
-*   Incluye todos los ámbitos de funcionamiento del centro
-*   Punto de referencia del resto de documentos : vinculante
+*   De centro, consensuado.
+*   Elaborado en equipo con participación de toda la comunidad.
+*   Incluye todos los ámbitos de funcionamiento del centro.
+*   Punto de referencia del resto de documentos : vinculante.
 *   Propio y diferenciado.
-*   Breve y de fácil manejo
-*   No excesivamente concreto: marco de intenciones
+*   Breve y de fácil manejo.
+*   No excesivamente concreto: marco de intenciones.
 *   Proyecto, modificable.
 
-Para su elaboración es necesario:
+**Para su elaboración es necesario:
+**
+*   Periodo de sensibilización.
+*   Comisión.
+*   Elaboración de anteproyecto.
+*   Documento entregado a la comunidad educativa.
+*   Participación de todos los sectores de la Comunidad educativa.
+*   Enmiendas y alegaciones.
+*   Elaboración Proyecto.
+*   Aprueba el Director (Nuevo en la LOMCE).
+*   Evalúa el Consejo Escolar.
 
-*   Periodo de sensibilización
-*   Comisión
-*   Elaboración de anteproyecto
-*   Documento entregado a la comunidad educativa
-*   Participación de todos los sectores de la Comunidad educativa
-*   Enmiendas y alegaciones
-*   Elaboración Proyecto
-*   Aprueba el Director (Nuevo en la LOMCE)
-*   Evalúa el Consejo Escolar
+El Artículo 121 LOE/LOMCE establece:
 
-Artículo 121 LOE/LOMCE establece:
-
-Los centros establecerán sus proyectos educativos, que deberán hacerse públicos con objeto de facilitar su conocimiento por el conjunto de la Comunidad educativa.
-
+**Los centros establecerán sus proyectos educativos, que deberán hacerse públicos con objeto de facilitar su conocimiento por el conjunto de la Comunidad educativa.
+**
 La LOE y las modificaciones establecidas por la LOMCE hacen un planteamiento integrador del Proyecto Educativo. Los aspectos educativos y las concreciones del currículo están todos integrados en el Proyecto Educativo. Las propuestas curriculares y las programaciones didácticas  también están integradas en el Proyecto Educativo.
 
 El proyecto educativo del centro recogerá:
 
-*   las características del entorno social y cultural del centro.
-*   los valores los objetivos y las prioridades de actuación.
-*   la concreción de los currículos
-*   el tratamiento transversal en las áreas, materias o módulos de la educación en valores y otras enseñanzas.
-*   la atención a la diversidad del alumnado
-*   la acción tutorial
-*   plan de convivencia
+*   Las características del entorno social y cultural del centro.
+*   Los valores los objetivos y las prioridades de actuación.
+*   La concreción de los currículos.
+*   El tratamiento transversal en las áreas, materias o módulos de la educación en valores y otras enseñanzas.
+*   La atención a la diversidad del alumnado.
+*   La acción tutorial.
+*   El plan de convivencia.
 
 En definitiva, el Proyecto Educativo de centro es uno de los pilares en los que se asienta la autonomía de los centros, de acuerdo con las intenciones establecidas en el preámbulo de la ley. No podemos obviar que dentro de su autonomía, cada comunidad autónoma ha legislado en consecuencia y ha aprobado nuevos reglamentos e instrucciones que completan lo establecido en la LOE.
 
