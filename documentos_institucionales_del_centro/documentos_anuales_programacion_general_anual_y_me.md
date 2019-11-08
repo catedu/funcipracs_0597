@@ -96,10 +96,12 @@ Los objetivos podrán estar relacionados con:
 
 ### b) Memoria Anual {#memoria-anual}
 
-**La Memoria Anual se compone de la Memoria Administrativa y de la Memoria final de curso.
+**La Memoria Anual se compone de la Memoria Administrativa y de la Memoria final de curso.**
 
- La Memoria Administrativa, elaborada por el equipo directivo y que se incorporará a la Programación General Anual (PGA), incluirá los siguientes datos relativos a los recursos humanos y materiales del centro:**
 
+
+** La Memoria Administrativa, elaborada por el equipo directivo y que se incorporará a la Programación General Anual (PGA), incluirá los siguientes datos relativos a los recursos humanos y materiales del centro:
+**
 1.  El Documento de Organización del Centro (DOC), será remitido, en su caso, a la Inspección de Educación.
 2.  El proyecto de presupuesto del centro.
 3.  La memoria económica de las actividades complementarias y extraescolares.
