@@ -105,6 +105,8 @@ Elizondo, C. (2016). Proyecto Educativo de Centro desde un enfoque inclusivo.
 
 [Documento de la autora] Recuperado de [https://www.slideshare.net/coralelizondo/proyecto-educativo-de-centro-desde-un-enfoque-inclusivo](https://www.google.com/url?q=https://www.slideshare.net/coralelizondo/proyecto-educativo-de-centro-desde-un-enfoque-inclusivo&sa=D&ust=1573045364482000)
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/nVH7EYzW854sEB" width="668" height="714" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/coralelizondo/proyecto-educativo-de-centro-desde-un-enfoque-inclusivo" title="Proyecto Educativo de Centro desde un enfoque inclusivo" target="_blank">Proyecto Educativo de Centro desde un enfoque inclusivo</a> </strong> from <strong><a href="https://www.slideshare.net/coralelizondo" target="_blank">Coral Elizondo</a></strong> </div>
+
 Os recomiendo visitar la página web y conocer el Proyecto Educativo del Colegio de Alpartir:
 
 Departamento de Educación del Gobierno de Aragón. (2019). Comunidad Educativa del Colegio de Alpartir. Recuperado de
