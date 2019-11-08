@@ -4,7 +4,7 @@ La LOE/LOMCE establece la concreción de los currículos establecidos por la Adm
 
 En Aragón, las concreciones curriculares y la orientación de los procesos de enseñanza se siguen vinculando al Proyecto Curricular como documento de referencias en el ámbito curricular y pedagógico.
 
-El Proyecto Curricular es el documento que define las enseñanzas y  marca directrices que posibilitan el desarrollo y contextualización de los currículos en cada centro; asegura la coherencia con el Proyecto Educativo y establece orientaciones concretas para diversos ámbitos: objetivos, metodología, evaluación y proyectos a desarrollar.
+**El Proyecto Curricular es el documento que define las enseñanzas y  marca directrices que posibilitan el desarrollo y contextualización de los currículos en cada centro; asegura la coherencia con el Proyecto Educativo y establece orientaciones concretas para diversos ámbitos: objetivos, metodología, evaluación y proyectos a desarrollar**.
 
 Se elabora, para cada etapa, tomando como referencia el Proyecto Educativo del centro y es un documento en el que el profesorado de una etapa educativa concreta y desarrolla las estrategias de intervención didáctica con el fin de asegurar la coherencia de la práctica docente.
 
@@ -16,9 +16,9 @@ Tiene como finalidades:
 
 En aquellos centros donde se cursen varias etapas educativas, los Proyectos Curriculares de Etapa habrán de insertarse en un Proyecto Curricular de Centro que recoja de manera integrada y coordinada las etapas que se impartan en el mismo.
 
-La Comisión de Coordinación Pedagógica deberá establecer las directrices generales para la elaboración y revisión de los Proyectos Curriculares de Etapa y de las Programaciones didácticas, incluidas en estos, con anterioridad al comienzo de la elaboración de dichas programaciones. Asimismo, la Comisión deberá establecer durante el mes de septiembre, y antes del inicio de las actividades lectivas, un calendario de actuaciones para el seguimiento y evaluación de los Proyectos Curriculares de Etapa y de las posibles modificaciones de los mismos
+**La Comisión de Coordinación Pedagógica deberá establecer las directrices generales para la elaboración y revisión de los Proyectos Curriculares de Etapa y de las Programaciones didácticas**, incluidas en estos, con anterioridad al comienzo de la elaboración de dichas programaciones. Asimismo, la Comisión deberá establecer durante el mes de septiembre, y antes del inicio de las actividades lectivas, un calendario de actuaciones para el seguimiento y evaluación de los Proyectos Curriculares de Etapa y de las posibles modificaciones de los mismos
 
-La elaboración y el contenido de los Proyectos Curriculares de Etapa La elaboración y el contenido, así como la revisión del PCE, se ajustará a lo dispuesto en el artículo 20 de la Orden de 16 de junio de 2014, modificada por la ORDEN de 21 de diciembre de 2015 y por la Orden ECD/850/2016, de 29 de julio, así como en el apartado 2.1.2\. de las Instrucciones que regulan la organización y el funcionamiento de los Colegios Públicos de Educación Infantil y Primaria y de los Colegios Públicos de Educación Especial de la Comunidad Autónoma de Aragón.
+La elaboración y el contenido de los Proyectos Curriculares de Etapa, así como la revisión del PCE, se ajustará a lo dispuesto en el artículo 20 de la [Orden de 16 de junio de 2014](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=798381820606), modificada por la [ORDEN de 21 de diciembre de 2015](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=887508504646) y por la [Orden ECD/850/2016, de 29 de julio](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=921670621818), así como en el apartado 2.1.2\. de las Instrucciones que regulan la organización y el funcionamiento de los Colegios Públicos de Educación Infantil y Primaria y de los Colegios Públicos de Educación Especial de la Comunidad Autónoma de Aragón.
 
 El Proyecto Curricular de Etapa (PCE), de acuerdo con lo establecido en la citada orden por la que se aprueba el currículo de la Educación Primaria y se autoriza su aplicación en los centros docentes de la Comunidad Autónoma de Aragón, contendrá:
 
@@ -44,7 +44,7 @@ g) Proyectos de innovación e investigación educativa, en su caso.
 
 h) Programaciones didácticas elaboradas por cada uno de los Equipos Didácticos, reguladas en el artículo 21 de la orden por la que se aprueba el currículo de la Educación Primaria y se autoriza su aplicación en los centros docentes de la Comunidad Autónoma de Aragón.
 
- El procedimiento de elaboración y el contenido del Proyecto Curricular de Etapa (PCE) se ajustarán a lo dispuesto en el artículo 49 del Reglamento Orgánico de las Escuelas de Educación Infantil y los Colegios de Educación Primaria y en el artículo 20 de la Orden de 16 de junio de 2014, de la Consejera de Educación, Universidad, Cultura y Deporte, por la que se aprueba el currículo de la Educación Primaria y se autoriza su aplicación en los centros docentes de la Comunidad Autónoma de Aragón
+ El procedimiento de elaboración y el contenido del Proyecto Curricular de Etapa (PCE) se ajustarán a lo dispuesto en el artículo 49 del [Reglamento Orgánico de las Escuelas de Educación Infantil y los Colegios de Educación Primaria](https://www.boe.es/boe/dias/1996/02/20/pdfs/A06061-06074.pdf) y en el artículo 20 de la [Orden de 16 de junio de 2014](http://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=798381820606), de la Consejera de Educación, Universidad, Cultura y Deporte, por la que se aprueba el currículo de la Educación Primaria y se autoriza su aplicación en los centros docentes de la Comunidad Autónoma de Aragón
 
 El Claustro de profesores aprobará los aspectos educativos de los Proyectos Curriculares de Etapa y cuantas modificaciones se incorporen al mismo. En aquellos centros donde se cursen varias etapas educativas, los Proyectos Curriculares de Etapa habrán de insertarse en un Proyecto Curricular de Centro que recoja de manera integrada y coordinada las etapas que se impartan en el mismo.
 
@@ -65,6 +65,8 @@ Os aconsejo visitar las siguientes páginas web:
 Departamento de Educación del Gobierno de Aragón. (2019). Página dedicada a la innovación educativa en Aragón. Recuperado de [http://innovacioneducativa.aragon.es/](https://www.google.com/url?q=http://innovacioneducativa.aragon.es/&sa=D&ust=1573045364490000)
 
 Escuela rural de Pitarque - Territorio Vivo ATV (2019, noviembre, 4). Conocer la escuela de Pitarque como ejemplo de un proyecto innovador. Recuperado de [https://youtu.be/WrkAl31mGRA](https://www.google.com/url?q=https://youtu.be/WrkAl31mGRA&sa=D&ust=1573045364491000)
+
+{% youtube %}https://youtu.be/WrkAl31mGRA{% endyoutube %}
 
 Innovación Educativa Sadako (2019, noviembre, 4). Escola Sadako. [Archivo de video]. Recuperado de [https://vimeo.com/194020446](https://www.google.com/url?q=https://vimeo.com/194020446&sa=D&ust=1573045364491000)
 

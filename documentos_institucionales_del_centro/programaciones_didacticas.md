@@ -1,20 +1,20 @@
 ## PROGRAMACIONES DIDÁCTICAS {#programaciones-did-cticas}
 
-La programación didáctica es el instrumento específico de planificación, desarrollo y evaluación de cada una de las áreas y materias; y dispone que, en ella, de acuerdo con el Proyecto Curricular de centro, se concreten los distintos elementos del currículo adaptándolos a las características específicas del alumnado.
+**La programación didáctica es el instrumento específico de planificación, desarrollo y evaluación de cada una de las áreas y materias; y dispone que, en ella, de acuerdo con el Proyecto Curricular de centro, se concreten los distintos elementos del currículo adaptándolos a las características específicas del alumnado.**
 
-La programación didáctica se sitúa en el escalón más cercano a la acción educativa, al trabajo en el aula, y su finalidad se relaciona directamente con la gestión práctica del proceso de enseñanza y aprendizaje y con su resultado. Es el documento en el que se explicitan las intenciones educativas concretas.
+La programación didáctica se sitúa en** el escalón más cercano a la acción educativa, al trabajo en el aula**, y su finalidad se relaciona directamente con la gestión práctica del proceso de enseñanza y aprendizaje y con su resultado. Es el documento en el que se explicitan las intenciones educativas concretas.
 
-Afecta directamente a la labor profesional de las y los docentes, ya que una de las funciones del profesorado es la programación y enseñanza de las áreas, materias y módulos que tengan encomendados (artículo 91 de Ley Orgánica 2/2006, de 3 de mayo, de Educación), evitando la improvisación y el activismo sin intención educativa. Así mismo, proporciona un marco coherente al equipo docente del centro. La programación tiene que ver también con el alumnado, puesto que determina los aprendizajes imprescindibles y esperables al final del ciclo o curso escolar. En última instancia implica a la comunidad educativa de cada centro escolar, por significar la concreción contextualizada de las decisiones tomadas previamente en el Proyecto Educativo y, más específicamente, en el Proyecto Curricular de Centro. Acompaña, por tanto, a la acción educativa a lo largo del curso.
+Afecta directamente a la labor profesional de las y los docentes, ya que una de las funciones del profesorado es la programación y enseñanza de las áreas, materias y módulos que tengan encomendados (artículo 91 de [Ley Orgánica 2/2006, de 3 de mayo](https://www.boe.es/boe/dias/2006/05/04/pdfs/A17158-17207.pdf), de Educación), evitando la improvisación y el activismo sin intención educativa. Así mismo, proporciona un marco coherente al equipo docente del centro. La programación tiene que ver también con el alumnado, puesto que determina los aprendizajes imprescindibles y esperables al final del ciclo o curso escolar. En última instancia implica a la comunidad educativa de cada centro escolar, por significar la concreción contextualizada de las decisiones tomadas previamente en el Proyecto Educativo y, más específicamente, en el Proyecto Curricular de Centro. Acompaña, por tanto, a la acción educativa a lo largo del curso.
 
 Además, la realización de la programación didáctica responde a un requerimiento normativo, el de garantizar el derecho a una evaluación objetiva. Éste no puede garantizarse si previamente no se ha asegurado la publicidad de los contenidos, objetivos y criterios de evaluación, para que puedan ser conocidos por parte del alumnado y de sus padres, madres o representantes legales cuando sean menores de edad.
 
 La elaboración de una programación, por lo tanto, se sitúa en el ámbito de la toma de decisiones del equipo docente, y sirve como elemento que permite aumentar la conciencia de cada profesor y profesora sobre su práctica educativa, para lo que ha de responder a las características de adecuación, concreción, flexibilidad y viabilidad puede determinar el modelo de programación didáctica (por materias, por ámbitos, por proyectos globales o interdisciplinares…),
 
-        Cada centro, dentro del ámbito del desarrollo de su autonomía, puede determinar el modelo de programación didáctica (por áreas, por ámbitos, por proyectos globales o interdisciplinares…). En los centros de Educación Primaria, los Equipos Didácticos elaborarán la programación didáctica correspondientes a las áreas de conocimiento integradas en la etapa, de acuerdo con el currículo oficial y con las directrices generales establecidas por la Comisión de Coordinación Pedagógica (CCP). La programación didáctica será realizada con anterioridad al comienzo de las actividades lectivas.
+Cada centro, dentro del ámbito del desarrollo de su autonomía, puede determinar el modelo de programación didáctica (por áreas, por ámbitos, por proyectos globales o interdisciplinares…). En los centros de Educación Primaria, los Equipos Didácticos elaborarán la programación didáctica correspondientes a las áreas de conocimiento integradas en la etapa, de acuerdo con el currículo oficial y con las directrices generales establecidas por la Comisión de Coordinación Pedagógica (CCP). La programación didáctica será realizada con anterioridad al comienzo de las actividades lectivas.
 
 Las programaciones didácticas de cada nivel, de acuerdo con lo establecido en la normativa vigente que aprueban los currículos en Aragón, tendrán que contemplar distintos aspectos.
 
-En la etapa de Educación Infantil, según el artículo 17 de la Orden de 28 de marzo de 2008, del Departamento de Educación, Cultura y Deporte, por la que se aprueba el currículo de la Educación infantil, la programación didáctica es el instrumento de planificación curricular específico para el ciclo.
+En la etapa de Educación Infantil, según el artículo 17 de la [Orden de 28 de marzo de 2008, del Departamento de Educación, Cultura y Deport](https://sid.usal.es/idocs/F3/LYN14595/14595-ed-inf.pdf)e, por la que se aprueba el currículo de la Educación infantil, la programación didáctica es el instrumento de planificación curricular específico para el ciclo.
 
 Incluirá, necesariamente, los siguientes aspectos:
 
@@ -63,13 +63,13 @@ La Orden de 16 de junio de 2014, por la que se aprueba el currículo de la Educa
 9.  Medidas complementarias que se plantean para el tratamiento del área dentro del Proyecto bilingüe y/o plurilingüe.
 10.  Mecanismos de revisión, evaluación y modificación de las Programaciones Didácticas en relación con los resultados académicos y procesos de mejora.
 
-A partir de estas premisas, el profesorado desarrollará su actividad docente conforme a lo establecido en el Proyecto Curricular de etapa y en la programación didáctica. Corresponde a cada docente, en coordinación con el equipo didáctico del grupo, la adecuación de dichas programaciones, mediante unidades de programación, a las características específicas de los alumnos que le hayan sido encomendados.
+**A partir de estas premisas, el profesorado desarrollará su actividad docente conforme a lo establecido en el Proyecto Curricular de etapa y en la programación didáctica. Corresponde a cada docente, en coordinación con el equipo didáctico del grupo, la adecuación de dichas programaciones, mediante unidades de programación**, a las características específicas de los alumnos que le hayan sido encomendados.
 
-La programación de aula es la adaptación de la programación didáctica a las características concretas de un grupo de alumnos y la acción que se desarrolla entre profesores y alumnos para sistematizar y ordenar el trabajo escolar.
-
+**La programación de aula es la adaptación de la programación didáctica a las características concretas de un grupo de alumnos y la acción que se desarrolla entre profesores y alumnos para sistematizar y ordenar el trabajo escolar.
+**
 La secuencia ordenada de las unidades de programación que se vayan a trabajar durante el curso constituirá la base específica de la programación de aula.
 
-![](/images/image9.png)
+![Figura 9: Elaboración propia.](/images/image9.png)
 
 Figura 9: Elaboración propia.
 
