@@ -12,7 +12,7 @@ Aprendemos juntos. [Fundación BBVA]. ( 2019, noviembre, 4). Habilidades para ap
 
 Aprendemos juntos. [Fundación BBVA]. ( 2019, noviembre, 4). Francesco Tonucci: Ayudemos a descubrir el ‘juguete preferido’ de cada niño.
 
-{% youtube %}https://youtu.be/QFRWosmu0D4{% endyoutube %}
+{% youtube %}https://youtu.be/a4qFPj9sGq8{% endyoutube %}
 
 
 Aprendemos juntos. [Fundación BBVA]. ( 2019, noviembre, 4). Robert Swartz: Enseñando a pensar mejor. 
