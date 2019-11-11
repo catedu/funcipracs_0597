@@ -1,6 +1,6 @@
 # Summary
 
-* [Funcionariado en prácticas de Aragón (0597)](README.md)
+* [Funcionariado en prácticas de Aragón \(0597\)](README.md)
 
 ## MÓDULO 1. Metodologías activas
 
@@ -22,7 +22,7 @@
   * [Autonomía de centros](el_centro_docente_como_organizacion/autonomia_de_centros.md)
 * [Documentos institucionales de centro](documentos_institucionales_del_centro/README.md)
   * [Proyecto Educativo de Centro](documentos_institucionales_del_centro/proyecto_educativo_de_centro.md)
-  * [Concreciones curriculares: Proyecto Curricular de Etapa (PCE)](documentos_institucionales_del_centro/concreciones_curriculares_proyecto_curricular_de_e.md)
+  * [Concreciones curriculares: Proyecto Curricular de Etapa \(PCE\)](documentos_institucionales_del_centro/concreciones_curriculares_proyecto_curricular_de_e.md)
   * [Programaciones Didácticas](documentos_institucionales_del_centro/programaciones_didacticas.md)
   * [Documentos anuales: Programación General Anual Y Memoria Final](documentos_institucionales_del_centro/documentos_anuales_programacion_general_anual_y_me.md)
 * [Conclusiones](conclusiones.md)
