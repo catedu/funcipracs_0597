@@ -1,0 +1,1 @@
+{% include "git+https://github.com/catedu/Curso-de-funcionarios-en-pr-cticas.git/aprendizaje_basado_en_proyectos/una_definicion_de_abp.md" %}
