@@ -5,7 +5,7 @@
 ## MÓDULO 1. Metodologías activas
 
 * [Metodologías activas](metodologias-activas.md)
-* [APRENDIZAJE BASADO EN PROYECTOS.](aprendizaje_basado_en_proyectos/README.md)
+* [Aprendizaje basado en proyectos.](aprendizaje_basado_en_proyectos/README.md)
   * [Una definición de ABP](aprendizaje_basado_en_proyectos/una_definicion_de_abp.md)
   * [8 Elementos esenciales para ABP](aprendizaje_basado_en_proyectos/8_elementos_esenciales_para_abp.md)
   * [El proyecto como plato principal](aprendizaje_basado_en_proyectos/el_proyecto_como_plato_principal.md)
@@ -16,18 +16,18 @@
 
 ## MÓDULO 2: Documentación educativa.
 
-* [INTRODUCCIÓN](introduccion/README.md)
+* [Introducción](introduccion/README.md)
   * [Documentos institucionales](introduccion/documentos_institucionales.md)
-* [EL CENTRO DOCENTE COMO ORGANIZACIÓN](el_centro_docente_como_organizacion/README.md)
-  * [AUTONOMÍA DE CENTROS](el_centro_docente_como_organizacion/autonomia_de_centros.md)
-* [DOCUMENTOS INSTITUCIONALES DEL CENTRO        ](documentos_institucionales_del_centro/README.md)
-  * [PROYECTO EDUCATIVO DE CENTRO](documentos_institucionales_del_centro/proyecto_educativo_de_centro.md)
-  * [CONCRECIONES CURRICULARES: PROYECTO CURRICULAR DE ETAPA (PCE)](documentos_institucionales_del_centro/concreciones_curriculares_proyecto_curricular_de_e.md)
-  * [PROGRAMACIONES DIDÁCTICAS](documentos_institucionales_del_centro/programaciones_didacticas.md)
-  * [DOCUMENTOS ANUALES: PROGRAMACIÓN GENERAL ANUAL Y MEMORIA FINAL](documentos_institucionales_del_centro/documentos_anuales_programacion_general_anual_y_me.md)
-* [CONCLUSIONES](conclusiones.md)
-* [PARA APRENDER MÁS:](para_aprender_mas.md)
-* [BIBLIOGRAFÍA](bibliografia.md)
+* [El centro docente como organización](el_centro_docente_como_organizacion/README.md)
+  * [Autonomía de centros](el_centro_docente_como_organizacion/autonomia_de_centros.md)
+* [Documentos institucionales de centro](documentos_institucionales_del_centro/README.md)
+  * [Proyecto Educativo de Centro](documentos_institucionales_del_centro/proyecto_educativo_de_centro.md)
+  * [Concreciones curriculares: Proyecto Curricular de Etapa (PCE)](documentos_institucionales_del_centro/concreciones_curriculares_proyecto_curricular_de_e.md)
+  * [Programaciones Didácticas](documentos_institucionales_del_centro/programaciones_didacticas.md)
+  * [Documentos anuales: Programación General Anual Y Memoria Final](documentos_institucionales_del_centro/documentos_anuales_programacion_general_anual_y_me.md)
+* [Conclusiones](conclusiones.md)
+* [Para aprender más:](para_aprender_mas.md)
+* [Bibliografía](bibliografia.md)
 
 ## MÓDULO 3: Comunidad educativa.
 
