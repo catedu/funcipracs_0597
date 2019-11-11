@@ -78,4 +78,4 @@ Orden de 21 de diciembre de 2015, de la Consejera de Educación, Cultura y Depor
 
 Orden ECD/850/2016, de 29 de julio, por la que se modifica la Orden de 16 de junio de 2014, de la Consejera de Educación, Universidad, Cultura y Deporte, por la que se aprueba el currículo de la Educación Primaria y se autoriza su aplicación en los centros docentes de la Comunidad Autónoma de Aragón (BOA de 12 de agosto)
 
-**Todas las referencias contenidas en este documento para las que se utiliza la forma de masculino genérico, deben entenderse aplicables, indistintamente, a hombres y mujeres.
+**Todas las referencias contenidas en este documento para las que se utiliza la forma de masculino genérico, deben entenderse aplicables, indistintamente, a hombres y mujeres.**

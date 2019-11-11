@@ -69,7 +69,7 @@ La Programación General Anual (PGA) deberá contener, al menos, los siguientes 
 
 15. Memoria Anual.
 
-Uno de los aspectos más importantes de la Programación General Anual es la adecuada formulación de los objetivos prioritarios anuales que el centro establezca, puesto que a partir de ellos han de diseñarse las principales líneas de actuación de los distintos órganos de gobierno, participación y coordinación pedagógica del centro. Parten de un diagnóstico y priorización de necesidades cuyas conclusiones se expresan en la memoria.
+**Uno de los aspectos más importantes de la Programación General Anual es la adecuada formulación de los objetivos prioritarios anuales que el centro establezca**, puesto que a partir de ellos han de diseñarse las principales líneas de actuación de los distintos órganos de gobierno, participación y coordinación pedagógica del centro. Parten de un diagnóstico y priorización de necesidades cuyas conclusiones se expresan en la memoria.
 
 Es importante que dichos objetivos sean claros y concretos, realistas, alcanzables durante el curso o en un proceso programado a corto o medio plazo y evaluables en su nivel de logro.
 
