@@ -1,8 +1,8 @@
 # EL CENTRO DOCENTE COMO ORGANIZACIÓN {#el-centro-docente-como-organizaci-n}
 
-![](/images/image4.png)
+![Figura 1: Francesco Tonucci (1970) La máquina de la escuela.](/images/image4.png)
 
-Figura 1: Francesco Tonucci (1970) La máquina de la escuela.
+
 
 Todas las organizaciones cuentan con una estructura.** La estructura es el conjunto de elementos articulados entre sí a partir de los cuales se ejecuta la acción institucional**. Estos elementos son: los órganos de gobierno, los órganos unipersonales, los órganos de coordinación y los equipos docentes. En definitiva, las unidades a las que se les asignan unas funciones y unos determinados papeles. Entre todas estas unidades se establece un sistema de relación dinámico regido por un conjunto de reglas, procedimientos y estilos de actuación. De la calidad de estas relaciones dependen que las actuaciones del centro educativo estén focalizadas en el progreso y desarrollo de los alumnos.
 
@@ -29,6 +29,6 @@ La dimensión relacional se centra en las relaciones entre personas, en favorece
 La naturaleza y características de los siete elementos y la manera como se relacionen de forma dinámica y concurrente determinarán el tipo de orientación que rija el funcionamiento de un centro educativo. Estos componentes, pues, no producen efectos por sí mismos: la estructura organizativa, por ejemplo, proporciona el marco de una innovación pero no garantiza su logro. Tampoco intervienen independientemente de los demás sino que se relacionan de manera interactiva y tienen una influencia recíproca. Así, por ejemplo, la abundancia o escasez de recursos o el uso que se haga de ellos, más o menos adecuado, tendrá influencia en el tipo de estructura que se establezca en la escuela; también influirá en la posibilidad o no de conseguir unos determinados objetivos y, a la vez, contribuirá a instalar una determinada cultura en la institución. O bien, una cultura autoritaria en el gobierno de la escuela o, por el contrario, muy laxa, tendrá que ver con el tipo de estructura existente, con la planificación establecida, con los objetivos de la institución o con el uso que se haga de los recursos (Antúnez, 2012).
 
 ![Figura 2: Elaborado a partir de Antúnez (2012)](/images/image1.png)
-Figura 2: Elaborado a partir de Antúnez (2012)
+
 
 Para que las interrelaciones entre los diversos componentes de la organización que hemos mencionado den lugar a procesos educativos de calidad, las distintas leyes educativas han ido dotando a los centros de una mayor autonomía. La intención es que asuman y ejerzan cada vez más responsabilidades y desarrollen un proyecto contextualizado al entorno que dé respuesta a las necesidades de sus alumnos.

@@ -14,7 +14,7 @@ En este sentido exige a las administraciones educativas potenciar y promover la 
 
 ![Figura 3: Elaboración propia.](/images/image7.png)
 
-Figura 3: Elaboración propia.
+
 
 ### a) Autonomía pedagógica {#autonom-a-pedag-gica}
 
@@ -47,7 +47,6 @@ El citado artículo 120 de la LOE establece las **bases para que los centros ten
 
 ![Figura 4: elaboración propia.](/images/image5.png)
 
-Figura 4: elaboración propia.
 
 ### b) Autonomía de organización {#autonom-a-de-organizaci-n}
 
@@ -63,7 +62,6 @@ También deberá tenerse en cuenta el Artículo 125 de la LOE en cuanto a la  Pr
 
 ![Figura 5: elaboración propia.](/images/image8.png)
 
-Figura 5: elaboración propia.
 
 ### c) Autonomía de gestión {#autonom-a-de-gesti-n}
 

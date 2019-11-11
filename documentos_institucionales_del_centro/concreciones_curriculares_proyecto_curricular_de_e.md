@@ -54,9 +54,8 @@ Una vez elaborado o modificado, el Proyecto Curricular de Etapa o enseñanza ser
 
 Los Proyectos Curriculares de Etapa serán evaluados anualmente por el Claustro de profesores. Las propuestas de valoración y de modificaciones del Proyecto Curricular de Etapa, si las hubiese, serán presentadas por la Comisión de Coordinación Pedagógica al Claustro de profesores en el mes de septiembre, para su discusión y aprobación. Cuando se introduzcan modificaciones, se deberán respetar las decisiones que afecten a la organización de los contenidos seguidos por los alumnos que hubieran iniciado sus estudios anteriormente.
 
-![](/images/image10.png)
+![Figura 8: Elaboración propia.](/images/image10.png)
 
-Figura 8: Elaboración propia.
 
 ### Para saber más.
 
@@ -64,10 +63,13 @@ Os aconsejo visitar las siguientes páginas web:
 
 Departamento de Educación del Gobierno de Aragón. (2019). Página dedicada a la innovación educativa en Aragón. Recuperado de [http://innovacioneducativa.aragon.es/](https://www.google.com/url?q=http://innovacioneducativa.aragon.es/&sa=D&ust=1573045364490000)
 
-Escuela rural de Pitarque - Territorio Vivo ATV (2019, noviembre, 4). Conocer la escuela de Pitarque como ejemplo de un proyecto innovador. Recuperado de [https://youtu.be/WrkAl31mGRA](https://www.google.com/url?q=https://youtu.be/WrkAl31mGRA&sa=D&ust=1573045364491000)
+Escuela rural de Pitarque - Territorio Vivo ATV (2019, noviembre, 4). Conocer la escuela de Pitarque como ejemplo de un proyecto innovador.
 
 {% youtube %}https://youtu.be/WrkAl31mGRA{% endyoutube %}
 
-Innovación Educativa Sadako (2019, noviembre, 4). Escola Sadako. [Archivo de video]. Recuperado de [https://vimeo.com/194020446](https://www.google.com/url?q=https://vimeo.com/194020446&sa=D&ust=1573045364491000)
+I[nnovación Educativa Sadako](https://vimeo.com/194020446) (2019, noviembre, 4). Escola Sadako.  
+
+<iframe src="https://player.vimeo.com/video/194020446" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/194020446">Innovacion Educativa Sadako</a> from <a href="https://vimeo.com/user8658759">Escola Sadako</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ![](/images/image2.png)

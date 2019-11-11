@@ -32,4 +32,3 @@ A partir de esta declaración de intenciones se procede a delimitar **cuáles de
 
 ![Figura 6: Elaboración propia.](/assets/Selección_803.png)
 
-Figura 6: Elaboración propia.

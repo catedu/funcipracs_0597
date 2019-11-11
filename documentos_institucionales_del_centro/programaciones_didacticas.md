@@ -71,7 +71,6 @@ La secuencia ordenada de las unidades de programación que se vayan a trabajar d
 
 ![Figura 9: Elaboración propia.](/images/image9.png)
 
-Figura 9: Elaboración propia.
 
 Para trabajar el apartado de programaciones didácticas os remito a la lectura del documento elaborado por la Asesoría Innovación CIFE Ángel Sanz Briz e Inspección de Educación de Teruel (2016). Documentos de Centro: Programaciones Didácticas de Primaria.
 
