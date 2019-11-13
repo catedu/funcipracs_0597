@@ -28,6 +28,7 @@
 * [Conclusiones](conclusiones.md)
 * [Para aprender más:](para_aprender_mas.md)
 * [Bibliografía](bibliografia.md)
+* [Créditos M2](introduccion/creditos-m2.md)
 
 ## MÓDULO 3: Comunidad educativa.
 
