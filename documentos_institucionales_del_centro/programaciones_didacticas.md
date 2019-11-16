@@ -75,3 +75,8 @@ La secuencia ordenada de las unidades de programación que se vayan a trabajar d
 Para trabajar el apartado de programaciones didácticas os remito a la lectura del documento elaborado por la Asesoría Innovación CIFE Ángel Sanz Briz e Inspección de Educación de Teruel (2016). Documentos de Centro: Programaciones Didácticas de Primaria.
 
 <iframe src="https://drive.google.com/file/d/1MrV3-EVSR_nDri93JcpzDKvRyHDhhNrq/preview" width="640" height="480"></iframe>
+
+Tambien es recomendable la lectura de la guía elaborada por los inspectores Ignacio Polo y Gemma Puertas:    Polo Martínez, I., y Puertas Bescós, G. (2017). [Guía para la elaboración de una programación didáctica en las etapas de Educación Primaria y Secundaria. Avances en Supervisión Educativa](https://avances.adide.org/index.php?journal=ase&page=article&op=view&path%5B%5D=593&path%5B%5D=440)
+
+<iframe src="https://avances.adide.org/index.php?journal=ase&page=article&op=view&path%5B%5D=593&path%5B%5D=440" width="640" height="480"></iframe>
+
