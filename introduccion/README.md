@@ -1,5 +1,7 @@
 # INTRODUCCIÓN {#introducci-n}
 
+<div class=text-justify>
+
 > En el punto de encuentro, no hay ignorantes ni sabios, solo personas que tratan de aprender juntas más que lo que saben ahora.
 
 > Paulo Freire
@@ -10,3 +12,5 @@ Los **objetivos** que nos planteamos son;
 
 1.  **Analizar los niveles de autonomía escolar** que disponen los centros y las implicaciones que de ello se deriva.
 2.  **Conocer cómo se realiza la gestión de un centro a través de documentos institucionales realistas** y que den respuesta a las necesidades de los alumnos, así como su repercusión en el buen funcionamiento del centro.
+
+</div>
