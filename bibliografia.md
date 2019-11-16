@@ -20,6 +20,8 @@ Fundación Telefónica (2017). Historia de 17\.  Madrid. Fundación Telefónica.
 
 Lozano, J. (2018) Cómo realizar la programación didáctica en formación profesional. Madrid: Editorial Síntesis.
 
+Polo Martínez, I., y Puertas Bescós, G. (2017). Guía para la elaboración de una programación didáctica en las etapas de Educación Primaria y Secundaria. Avances en Supervisión Educativa, (27). https://doi.org/10.23824/ase.v0i27.593
+
 Rivas, A.,André, F. y Lucas, E. (2018). 50 Innovaciones educativas para escuelas. Madrid. Santillana.
 
 Tébar. F., R. Marcos y Rodríguez, C. (Coord.).(2018). Documentos de apoyo para la elaboración de las programaciones didácticas. Educación Infantil. Educación Primaria. Educación Secundaria Obligatoria y Bachillerato. Madrid: Consejería de Educación e Investigación de la Comunidad de Madrid.
